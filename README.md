@@ -12,3 +12,6 @@ Setup requires creating a Firebase project. See https://firebase.google.com/ for
 
 ## License
 See [LICENSE](LICENSE)
+
+## APK
+Install the application from google drive https://drive.google.com/open?id=0ByfSe-XmVDIrNXFaTVBlSFNfbGc
